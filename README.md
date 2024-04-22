@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Rayanne Belanger😄
+Cursando Sistemas para Internet na Universidade Católica de Pernambuco
+JAVA | C | JAVASCRIPT | SQL | HTML | CSS
 <!--
 **rayannebelanger/rayannebelanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
